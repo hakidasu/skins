@@ -1,4 +1,4 @@
- <p align="center"> ♡ (main)
+ <p align="center"> ♡ 
 <p align="center">
 <a href="https://osu.ppy.sh/users/33930179">
   <img src="https://a.ppy.sh/33930179?10"  

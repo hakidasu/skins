@@ -7,27 +7,27 @@
 <p align="center"> 
 
 # [- nm](https://hakidasu.s-ul.eu/T8i48tE2)
-![screenshot032](https://github.com/user-attachments/assets/081a47a6-b509-46f6-8e6e-819dbff5009f)
-![screenshot014](https://github.com/user-attachments/assets/6c2ba6a3-b177-47e2-907b-161be4adb185)
-![screenshot013](https://github.com/user-attachments/assets/330882be-af35-4837-82d7-38370fbda42b)
-![screenshot034](https://github.com/user-attachments/assets/d7cfb228-5e3b-4d6d-8877-a8070582c97f)
-![screenshot033](https://github.com/user-attachments/assets/dff3ea62-2482-4714-95e2-232c3ff60878)
+![screenshot032](https://github.com/user-attachments/assets/6295d47a-7d2b-4220-a46d-4e23c975cec6)
+![screenshot034](https://github.com/user-attachments/assets/5f3eb17e-3678-4fb2-ad0f-ad19681df2f9)
+![screenshot033](https://github.com/user-attachments/assets/1625fae4-5f8d-4860-b862-737f9ed86967)
+![screenshot014](https://github.com/user-attachments/assets/d9887625-2f55-40d2-a19c-7b8dfd55fafa)
+![screenshot013](https://github.com/user-attachments/assets/2c9330e5-4b6f-46b1-85a4-6c56bc30cad1)
+
 
 
 # [- nm +](https://hakidasu.s-ul.eu/mfHOvmkj)
-![screenshot027](https://github.com/user-attachments/assets/1a23421e-dfd7-4709-97b4-dff48754bec7)
-![screenshot026](https://github.com/user-attachments/assets/5a4c179e-5275-4fc6-9a65-d064b6fed4ed)
-![screenshot025](https://github.com/user-attachments/assets/c46e78f7-8598-449b-9d6b-d57ccdaeeb37)
-![screenshot034](https://github.com/user-attachments/assets/d7cfb228-5e3b-4d6d-8877-a8070582c97f)
-![screenshot033](https://github.com/user-attachments/assets/dff3ea62-2482-4714-95e2-232c3ff60878)
+![screenshot026](https://github.com/user-attachments/assets/52fd0990-8424-41cf-a088-93331a3f840c)
+![screenshot025](https://github.com/user-attachments/assets/2f3d2aca-13ce-4af3-b380-011b95341d28)
+![screenshot027](https://github.com/user-attachments/assets/acc10cbb-53dc-4273-a428-6c5321e56300)
+
+
 
 
 # [- dt](https://hakidasu.s-ul.eu/L3j2UBJz)
-![screenshot031](https://github.com/user-attachments/assets/9eeae125-264a-4ce9-97bb-78b820a0dc09)
-![screenshot030](https://github.com/user-attachments/assets/ae0319f0-e997-4088-b69b-d02f0309ecef)
-![screenshot029](https://github.com/user-attachments/assets/174f48f0-78fb-43c4-9f19-8e698e2b42cf)
-![screenshot034](https://github.com/user-attachments/assets/d7cfb228-5e3b-4d6d-8877-a8070582c97f)
-![screenshot033](https://github.com/user-attachments/assets/dff3ea62-2482-4714-95e2-232c3ff60878)
+![screenshot029](https://github.com/user-attachments/assets/6c2249b8-a5aa-4283-9819-77e3714429bb)
+![screenshot031](https://github.com/user-attachments/assets/802b5a2b-0d55-497a-bf84-84f99cf1ae06)
+![screenshot030](https://github.com/user-attachments/assets/50b15676-fcac-4ee1-8bfe-5558c2e167a6)
+
 
 
 # [- old](https://hakidasu.s-ul.eu/VJRqjtB6)
